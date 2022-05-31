@@ -17,3 +17,5 @@ But application doesn't provide methods for managing user profiles. It has in me
 | ------------- | ------------- | ------------- |
 | GET  | {user-profile-id}/image/download  | Download current user profile image |
 | POST  | {user-profile-id}/image/upload  | Upload new user profile image |
+
+## [Frontend](https://github.com/DendeberiaOleksandr/aws-image-upload/tree/frontend)
