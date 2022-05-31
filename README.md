@@ -21,3 +21,8 @@ But application doesn't provide methods for managing user profiles. It has in me
 ## [Frontend](https://github.com/DendeberiaOleksandr/aws-image-upload/tree/frontend)
 
 ![Client](https://i.imgur.com/RF2NZwz.png)
+
+Using drag and drop input user can upload an image
+After uploading an image
+
+![Uploaded](https://i.imgur.com/4A1f5SO.png)
