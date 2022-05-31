@@ -1,6 +1,6 @@
 # aws-image-upload
 
-Application allows to manage user profiles images.
+Application allows to manage user profile image storing it in Amazon S3 Service.
 
 ## [Backend](https://github.com/DendeberiaOleksandr/aws-image-upload/tree/master)
 
