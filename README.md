@@ -19,3 +19,5 @@ But application doesn't provide methods for managing user profiles. It has in me
 | POST  | {user-profile-id}/image/upload  | Upload new user profile image |
 
 ## [Frontend](https://github.com/DendeberiaOleksandr/aws-image-upload/tree/frontend)
+
+![Preview](https://imgur.com/RF2NZwz)
