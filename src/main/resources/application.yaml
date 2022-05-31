@@ -1,0 +1,9 @@
+app:
+  awsAccessKeyId: "AKIAV7M3D7RTYNVD7MN3"
+  awsSecretKey: "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"
+
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
