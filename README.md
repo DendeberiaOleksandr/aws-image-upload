@@ -20,4 +20,4 @@ But application doesn't provide methods for managing user profiles. It has in me
 
 ## [Frontend](https://github.com/DendeberiaOleksandr/aws-image-upload/tree/frontend)
 
-![Preview](https://imgur.com/RF2NZwz)
+[Image](https://imgur.com/a/ysfZF6o)
